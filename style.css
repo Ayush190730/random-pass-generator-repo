@@ -81,7 +81,7 @@ body {
 }
 @media (max-width: 600px) {
           .display{
-                    width: 350px;          
+                    width: 340px;          
           }
 
           .display input{
@@ -94,6 +94,6 @@ body {
   }
 
   .display img{
-    width: 15px;
+    width: 18px;
 }
 }
