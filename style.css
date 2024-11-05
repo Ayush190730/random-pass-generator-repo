@@ -81,7 +81,7 @@ body {
 }
 @media (max-width: 600px) {
           .display{
-                    width: 320px;          
+                    width: 350px;          
           }
 
           .display input{
